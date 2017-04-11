@@ -1,6 +1,8 @@
 # facerec
 Face recognition based on opencv EigenFace classifier.
 
+Note: Needs dirent.h file.
+
 Usage:
 
 1)	facerec.exe -train <path/to/training/directory>	
